@@ -18,8 +18,6 @@ class Numbers:
     def display (self):
         print(f"n1 = {self.n1}\tn2 = {self.n2}\tn3 = {self.n3}")
 
-
-
 obj1 = Numbers()
 obj2 = Numbers(100)
 obj3 = Numbers(12, 32, 23)
