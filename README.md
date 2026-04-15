@@ -94,7 +94,6 @@ n1 = 10	n2 = 25	n3 = 38
 ## 🎯 Use Case
 
 This program helps beginners understand:
-
 * How Python handles constructors differently from languages like Java/C++
 * How to simulate **constructor overloading** using default parameters
 
